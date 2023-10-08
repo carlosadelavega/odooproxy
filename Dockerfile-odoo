@@ -1,5 +1,5 @@
-FROM odoo:10.0
-MAINTAINER Ozrlz
+FROM odoo
+MAINTAINER Odoo
 
 USER root
 
