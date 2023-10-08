@@ -1,5 +1,5 @@
 FROM nginx:latest
-MAINTAINER Ozrlz
+MAINTAINER nginxinc
 
 # Conf files
 COPY odoo-nginx.conf /etc/nginx/conf.d/
